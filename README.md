@@ -2,6 +2,8 @@
 
 Cross-Chain Bridges for NFT Tokens: Enabling Secure and Reliable Transfers Between Different Blockchain Networks
 
+Dock: https://docs.google.com/document/d/1J-RPTnPwG3jfktlAYTrbvnYZ7hcROkaG-aDyqpRuOr0/edit?usp=sharing
+
 ## Introduction
 
 Non-fungible tokens (NFTs) have become increasingly popular in recent years as a way of representing unique digital assets such as artwork, collectibles, and in-game items. However, the lack of interoperability between different blockchain networks has made it difficult to transfer NFTs between them. This problem is addressed by cross-chain bridges for NFT tokens, which enable the transfer of NFTs between different blockchain networks while maintaining their uniqueness and ownership history.
